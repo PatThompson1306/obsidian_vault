@@ -11,10 +11,14 @@
             "id": "0952398ac8e5d5cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Typologies of Online Sexual Offenders/dehart2017internet.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "dehart2017internet"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Typologies of Online Sexual Offenders/dehart2017internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for dehart2017internet"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Typologies of Online Sexual Offenders/dehart2017internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from dehart2017internet"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Typologies of Online Sexual Offenders/dehart2017internet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of dehart2017internet"
             }
           }
         ]
@@ -178,7 +185,13 @@
   },
   "active": "0952398ac8e5d5cf",
   "lastOpenFiles": [
+    "Language Analysis of CSAM Offenders/ebrahimi2016detecting.md",
+    "Typologies of Online Sexual Offenders/dehart2017internet.md",
+    "__Papers/dehart2017internet.pdf",
+    "Miscellaneous Papers on CSAM Offenders/finkelhor2024prevalence.md",
+    "__Papers/ebrahimi2016detecting.pdf",
     "Typologies of Online Sexual Offenders/mcmanus2016exploring.md",
+    "__Papers/finkelhor2024prevalence.pdf",
     "Typologies of Online Sexual Offenders/merdian2018fantasy.md",
     "__Papers/mcmanus2016exploring.pdf",
     "Methodologies of Online Sexual Offenders/02003typology.md",
@@ -194,12 +207,9 @@
     "Typologies of Online Sexual Offenders/briggs2011exploratory.md",
     "Language Analysis of CSAM Offenders/black2015linguistic.md",
     "Typologies of Online Sexual Offenders/crowell2022using.md",
-    "__Papers/soldino2024criminological.pdf",
     "Typologies of Online Sexual Offenders/chiang2019deceptive.md",
     "Language Analysis of CSAM Offenders/inches2012overview.md",
-    "__Papers/crowell2022using.pdf",
     "Language Analysis of CSAM Offenders/chiu2018exploring.md",
-    "__Papers/choi2024digital.pdf",
     "Language Analysis of CSAM Offenders/seigfried2019chat.md",
     "Untitled.canvas",
     "___Note Template___.md",
