@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e330eaaaf156c9eb",
+        "id": "478d2535fa78d351",
         "type": "tabs",
         "children": [
           {
-            "id": "c2063ab27fb5c8e5",
+            "id": "392ae3a60bad7969",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Typologies of Online Sexual Offenders/soldino2024criminological.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "soldino2024criminological"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -180,8 +176,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "c2063ab27fb5c8e5",
+  "active": "392ae3a60bad7969",
   "lastOpenFiles": [
+    "Typologies of Online Sexual Offenders/soldino2024criminological.md",
     "Typologies of Online Sexual Offenders/krone2017trajectories.md",
     "Methodologies of Online Sexual Offenders/02003typology.md",
     "Miscellaneous Papers on CSAM Offenders/finkelhor2024prevalence.md",
@@ -199,7 +196,6 @@
     "__Papers/o2003typology.pdf",
     "Language Analysis of CSAM Offenders/schneevogt2018perverted.md",
     "Methodologies of Online Sexual Offenders",
-    "Typologies of Online Sexual Offenders/soldino2024criminological.md",
     "__Papers/schneevogt2018perverted.pdf",
     "Untitled 1.base",
     "Typologies of Online Sexual Offenders/briggs2011exploratory.md",
