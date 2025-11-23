@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "478d2535fa78d351",
+        "id": "391becd04ee12d24",
         "type": "tabs",
         "children": [
           {
-            "id": "392ae3a60bad7969",
+            "id": "294d1189dacabf84",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -176,8 +176,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "392ae3a60bad7969",
+  "active": "b7fceb1421a0ba49",
   "lastOpenFiles": [
+    "Wider use of NLP/ngai2025natural.md",
+    "Wider use of NLP",
     "Typologies of Online Sexual Offenders/soldino2024criminological.md",
     "Typologies of Online Sexual Offenders/krone2017trajectories.md",
     "Methodologies of Online Sexual Offenders/02003typology.md",
@@ -197,7 +199,6 @@
     "Language Analysis of CSAM Offenders/schneevogt2018perverted.md",
     "Methodologies of Online Sexual Offenders",
     "__Papers/schneevogt2018perverted.pdf",
-    "Untitled 1.base",
     "Typologies of Online Sexual Offenders/briggs2011exploratory.md",
     "Language Analysis of CSAM Offenders/black2015linguistic.md",
     "Typologies of Online Sexual Offenders/crowell2022using.md",
